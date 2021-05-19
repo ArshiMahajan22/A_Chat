@@ -1,0 +1,57 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+body{
+background-image: linear-gradient(to right top, #0091ff, #e371ff, #ff6dec, #0a73aa, #006494);
+margin: 20px;
+}
+
+.logo{
+    width: 50px;
+    margin-left: -15px;
+}
+
+.login_div{
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#Message, #Room_M{
+    width: 60px;
+}
+
+.header{
+    color: white;
+    font-family: 'Lobster Two';
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-top: 80px;
+}
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+}
+
+#output{
+    padding: 10px; 
+	width:80%;
+	background: aqua;
+	border-radius: 15px;
+}
+
+#welcome_user{
+    color: white;
+    font-family: 'Lobster Two';
+}
+
+#login_button
+{
+	width: 70%;
+    border-radius: 5px;
+}
